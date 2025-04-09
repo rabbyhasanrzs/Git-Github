@@ -1,0 +1,78 @@
+
+///////----->>>>>>>>>> 
+
+Git:
+----
+     ->> Version Control system is a tools that helps to track changes in code.
+         and Git is a version Control system .
+     ->> Properties:
+               - Popular
+               - free & Open Source 
+               - fast & scalable
+
+
+Github :
+--------- 
+     ->> Website that allows developers to store and manage
+         their code using Git.
+         - https://github.com
+
+Github Account :
+---------------- 
+           - Create a new repository : apnacollege-demo
+           - Make our first commit
+
+Setting up Git :
+----------------
+           - Visual Studio Code.
+           - Windows (Git bash).
+           - Mac (Terminal).
+               *** To verify if git installed or not.
+
+
+Configuring Git :
+-----------------
+           - git config --global user.name " Name "
+           - git config --global user.email
+              "rabbyhasanrzs518@gmail.com"
+           - git config --list
+
+
+Note :     1) For changing directory (directory = folder)
+                 - cd "folder name"  //press tab for auto
+                   completion
+           2) For Exiting Directory 
+                 - cd ..
+           3) ' ~ ' --> sign means the Root directory or we can
+               say the main folder of our local machine 
+
+Clone & Status :
+----------------
+           - clone : Cloning a repository on our local machine.
+                   - git clone <repository link>
+           - Status : displays the status of the code.
+                   - git status
+
+
+Type of files occurs:
+---------------------
+
+           - untracked : new files that git doesn't yet track
+           - modified : changed
+           - staged : file is ready to be committed
+           - unmodified : unchanged
+
+Add & Commit :
+--------------
+
+           - add : adds new or changed files in your working
+                   directory to the Git staging area
+                   - git add "file name"
+           - commit : it is the record of changed
+                   - git commit -m "some message"
+
+Push Command :
+--------------
+
+           - push : upload local repo contend to remote repo
+                   - git push origin main 
