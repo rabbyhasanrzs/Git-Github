@@ -45,6 +45,8 @@ Note :     1) For changing directory (directory = folder)
                  - cd ..
            3) ' ~ ' --> sign means the Root directory or we can
                say the main folder of our local machine 
+           4) For make folder
+                 - mkdir " folder name "
 
 Clone & Status :
 ----------------
