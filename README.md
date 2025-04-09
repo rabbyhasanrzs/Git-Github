@@ -1,2 +1,2 @@
 # Git-Github
-Basics Of Git &amp; Github - Rabby Hasan
+Basics Of Git &amp; Github - Rabby Hasan (Emon)
