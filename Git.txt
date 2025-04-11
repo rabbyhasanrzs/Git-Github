@@ -104,3 +104,15 @@ Branch Commands:
              new branch)
            - git branch -d < branch name >   --> (to delete
               branch)
+
+
+/////////////------------->>> /////////////------------->>>
+
+Merging Code :
+           - Way 1:
+                 - git diff <branch name>   --> (to compare
+                    commit,branches,files & more)
+                 - git merge <branch name>   -->(to merge 2 
+                     branch)
+           - Way 2 :
+                 - Create PR (Pull Request)
