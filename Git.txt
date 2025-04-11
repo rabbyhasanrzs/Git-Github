@@ -140,3 +140,10 @@ Pull Request & Commands :
               pushed to a branch in a repository on Github.
         - PC: Used to fetch and download content from a remote
               repo and immediately update the local repo to match that content.
+
+
+/////////////------------->>> /////////////------------->>>
+
+Resolving Merge Conflicts :
+        -- An even that takes place when Git is unable to
+           automatically resolve differences in code between two commits.
