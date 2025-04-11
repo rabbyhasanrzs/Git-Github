@@ -147,3 +147,18 @@ Pull Request & Commands :
 Resolving Merge Conflicts :
         -- An even that takes place when Git is unable to
            automatically resolve differences in code between two commits.
+
+
+/////////////------------->>> /////////////------------->>>
+
+Undoing Changes :
+------------------
+
+Care 1 : Staged changes 
+        - git reset < file name>
+        - git reset
+Case 2 : Commited changes (for one commit)
+        - git reset HEAD~1
+Case 3 : Commited changes (for many commits)
+        - git reset < commit hash >
+        - git reset --hard <commit hash>
