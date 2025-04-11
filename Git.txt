@@ -148,3 +148,13 @@ Pull Request & Commands :
 Resolving Merge Conflicts :
         -- An even that takes place when Git is unable to
            automatically resolve differences in code between two commits.
+
+
+
+/////////////------------->>> /////////////------------->>>
+
+Fork :
+------
+       -> A fork is a new repository that shares code and 
+          visibility setting with the original "upstream" repository"
+          *** Fork is a rough copy.
