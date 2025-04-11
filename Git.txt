@@ -104,3 +104,6 @@ Branch Commands:
              new branch)
            - git branch -d < branch name >   --> (to delete
               branch)
+
+/////////////------------->>> /////////////------------->>>
+          - Create branch and branch command
