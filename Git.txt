@@ -88,6 +88,8 @@ Push Command :
 Init Command : 
            - init : used to create a new git repo
            - git init
+           *** For Removed .git 
+              - rm -rf .git
            - git remote add origin "link"
            - git remote -v   // to verify remote
            - git branch      // to check branch
